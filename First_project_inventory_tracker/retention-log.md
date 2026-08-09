@@ -23,3 +23,13 @@ INSERT OR REPLACE updates existing row instead of crashing
 [23/07/2026] — Project 1 complete: JSON, os, sqlite3, conn, cursor, PRIMARY KEY, SQL injection, ? placeholders — review: [26/07], [28/07], [30/07]
 
 [23/07/2026] — Sets: no duplicates, O(1) lookup, .add(), .remove(), set difference (-), set() converts list to set — review: [26/07], [28/07], [30/07]
+
+
+[01/08/2026] — SQL HAVING: filters grouped results, used after GROUP BY — review: [+3], [+5], [+7]
+
+
+[03/08/2026] — SQL HAVING: filters grouped results, used after GROUP BY — review: [+3], [+5], [+7]
+
+[07/08/2026] — SQL LEFT JOIN: returns ALL rows from left table even with no match in right table, unmatched = NULL — review: [+3], [+5], [+7]
+
+[07/08/2026] — SQL Drill 10: combined SUM, AVG, COUNT, JOIN, WHERE, GROUP BY, ORDER BY, LIMIT in one query — review: [+3], [+5], [+7]
