@@ -33,3 +33,5 @@ INSERT OR REPLACE updates existing row instead of crashing
 [07/08/2026] — SQL LEFT JOIN: returns ALL rows from left table even with no match in right table, unmatched = NULL — review: [+3], [+5], [+7]
 
 [07/08/2026] — SQL Drill 10: combined SUM, AVG, COUNT, JOIN, WHERE, GROUP BY, ORDER BY, LIMIT in one query — review: [+3], [+5], [+7]
+
+[09/08/2026] — Git branching: checkout -b, merge, branch -d, feature branches keep main clean — review: [12/08], [14/08], [16/08]
